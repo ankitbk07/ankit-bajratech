@@ -1,1 +1,0 @@
-#  This is a staic page for projects created in Bajra Traineeship
